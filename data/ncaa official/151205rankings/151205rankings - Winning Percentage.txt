@@ -1,0 +1,132 @@
+Winning Percentage
+Through Games 12/05/2015
+  Rank Name                           W           L           T         Pct 
+     1 Clemson                       13           0           0       1.000 
+     2 Iowa                          12           1           0       0.923 
+       Michigan St.                  12           1           0       0.923 
+       Houston                       12           1           0       0.923 
+       Alabama                       12           1           0       0.923 
+     6 Ohio St.                      11           1           0       0.917 
+       Oklahoma                      11           1           0       0.917 
+     8 Western Ky.                   11           2           0       0.846 
+       North Carolina                11           2           0       0.846 
+       Stanford                      11           2           0       0.846 
+    11 Appalachian St.               10           2           0       0.833 
+       TCU                           10           2           0       0.833 
+       Florida St.                   10           2           0       0.833 
+       Northwestern                  10           2           0       0.833 
+       Oklahoma St.                  10           2           0       0.833 
+       Notre Dame                    10           2           0       0.833 
+    17 Navy                           9           2           0       0.818 
+       Toledo                         9           2           0       0.818 
+    19 San Diego St.                 10           3           0       0.769 
+       Florida                       10           3           0       0.769 
+       Bowling Green                 10           3           0       0.769 
+       Temple                        10           3           0       0.769 
+    23 Marshall                       9           3           0       0.750 
+       Memphis                        9           3           0       0.750 
+       Georgia                        9           3           0       0.750 
+       Baylor                         9           3           0       0.750 
+       BYU                            9           3           0       0.750 
+       Ole Miss                       9           3           0       0.750 
+       Arkansas St.                   9           3           0       0.750 
+       Utah                           9           3           0       0.750 
+       Oregon                         9           3           0       0.750 
+       Wisconsin                      9           3           0       0.750 
+       Michigan                       9           3           0       0.750 
+    34 LSU                            8           3           0       0.727 
+    35 Southern Miss.                 9           4           0       0.692 
+    36 Pittsburgh                     8           4           0       0.667 
+       Louisiana Tech                 8           4           0       0.667 
+       Miami (FL)                     8           4           0       0.667 
+       South Fla.                     8           4           0       0.667 
+       Boise St.                      8           4           0       0.667 
+       UCLA                           8           4           0       0.667 
+       Washington St.                 8           4           0       0.667 
+       Ohio                           8           4           0       0.667 
+       Tennessee                      8           4           0       0.667 
+       Mississippi St.                8           4           0       0.667 
+       Ga. Southern                   8           4           0       0.667 
+       Texas A&M                      8           4           0       0.667 
+    48 Southern California            8           5           0       0.615 
+       Air Force                      8           5           0       0.615 
+       Northern Ill.                  8           5           0       0.615 
+    51 Penn St.                       7           5           0       0.583 
+       Texas Tech                     7           5           0       0.583 
+       Akron                          7           5           0       0.583 
+       California                     7           5           0       0.583 
+       Arkansas                       7           5           0       0.583 
+       Cincinnati                     7           5           0       0.583 
+       Duke                           7           5           0       0.583 
+       Colorado St.                   7           5           0       0.583 
+       Central Mich.                  7           5           0       0.583 
+       Louisville                     7           5           0       0.583 
+       North Carolina St.             7           5           0       0.583 
+       Middle Tenn.                   7           5           0       0.583 
+       New Mexico                     7           5           0       0.583 
+       Western Mich.                  7           5           0       0.583 
+       West Virginia                  7           5           0       0.583 
+    66 Tulsa                          6           6           0       0.500 
+       Washington                     6           6           0       0.500 
+       Utah St.                       6           6           0       0.500 
+       Kansas St.                     6           6           0       0.500 
+       Georgia St.                    6           6           0       0.500 
+       Virginia Tech                  6           6           0       0.500 
+       Nevada                         6           6           0       0.500 
+       UConn                          6           6           0       0.500 
+       Arizona                        6           6           0       0.500 
+       Auburn                         6           6           0       0.500 
+       Arizona St.                    6           6           0       0.500 
+       Indiana                        6           6           0       0.500 
+    78 South Ala.                     5           7           0       0.417 
+       San Jose St.                   5           7           0       0.417 
+       Rice                           5           7           0       0.417 
+       Old Dominion                   5           7           0       0.417 
+       Minnesota                      5           7           0       0.417 
+       Nebraska                       5           7           0       0.417 
+       Missouri                       5           7           0       0.417 
+       Kentucky                       5           7           0       0.417 
+       Illinois                       5           7           0       0.417 
+       FIU                            5           7           0       0.417 
+       East Carolina                  5           7           0       0.417 
+       Buffalo                        5           7           0       0.417 
+       UTEP                           5           7           0       0.417 
+       Texas                          5           7           0       0.417 
+    92 Vanderbilt                     4           8           0       0.333 
+       Rutgers                        4           8           0       0.333 
+       La.-Lafayette                  4           8           0       0.333 
+       Troy                           4           8           0       0.333 
+       Idaho                          4           8           0       0.333 
+       Syracuse                       4           8           0       0.333 
+       Virginia                       4           8           0       0.333 
+    99 Colorado                       4           9           0       0.308 
+   100 Wake Forest                    3           9           0       0.250 
+       Fla. Atlantic                  3           9           0       0.250 
+       UNLV                           3           9           0       0.250 
+       New Mexico St.                 3           9           0       0.250 
+       Fresno St.                     3           9           0       0.250 
+       South Carolina                 3           9           0       0.250 
+       Georgia Tech                   3           9           0       0.250 
+       UTSA                           3           9           0       0.250 
+       Ball St.                       3           9           0       0.250 
+       Kent St.                       3           9           0       0.250 
+       Miami (OH)                     3           9           0       0.250 
+       Tulane                         3           9           0       0.250 
+       Massachusetts                  3           9           0       0.250 
+       Maryland                       3           9           0       0.250 
+       Boston College                 3           9           0       0.250 
+       Texas St.                      3           9           0       0.250 
+       Iowa St.                       3           9           0       0.250 
+   117 Hawaii                         3          10           0       0.231 
+   118 Army West Point                2           9           0       0.182 
+   119 Wyoming                        2          10           0       0.167 
+       Oregon St.                     2          10           0       0.167 
+       SMU                            2          10           0       0.167 
+       Purdue                         2          10           0       0.167 
+   123 La.-Monroe                     2          11           0       0.154 
+   124 North Texas                    1          11           0       0.083 
+       Eastern Mich.                  1          11           0       0.083 
+   126 UCF                            0          12           0       0.000 
+       Kansas                         0          12           0       0.000 
+Reclassifying
+    NR Charlotte                      2          10           0       0.167 

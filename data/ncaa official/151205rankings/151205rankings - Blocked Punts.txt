@@ -1,0 +1,63 @@
+Blocked Punts
+Through Games 12/05/2015
+  Rank Name                           G W-L           Opp Punts  Blkd Punts 
+     1 Temple                        13 10-3                 77           5 
+     2 Louisiana Tech                12 8-4                  71           3 
+       Ga. Southern                  12 8-4                  53           3 
+       Central Mich.                 12 7-5                  62           3 
+       California                    12 7-5                  55           3 
+       Boston College                12 3-9                  93           3 
+       Missouri                      12 5-7                  79           3 
+       La.-Lafayette                 12 4-8                  56           3 
+       BYU                           12 9-3                  68           3 
+       Alabama                       13 12-1                 98           3 
+    11 Akron                         12 7-5                  69           2 
+       Baylor                        12 9-3                  80           2 
+       Memphis                       12 9-3                  74           2 
+       East Carolina                 12 5-7                  67           2 
+       Texas A&M                     12 8-4                  78           2 
+       Miami (OH)                    12 3-9                  68           2 
+       Kansas St.                    12 6-6                  61           2 
+       Georgia                       12 9-3                  77           2 
+       Toledo                        11 9-2                  59           2 
+       South Ala.                    12 5-7                  61           2 
+       Ohio St.                      12 11-1                 86           2 
+       Hawaii                        13 3-10                 71           2 
+       Georgia Tech                  12 3-9                  60           2 
+       Pittsburgh                    12 8-4                  61           2 
+       Utah St.                      12 6-6                  76           2 
+       Mississippi St.               12 8-4                  67           2 
+       Illinois                      12 5-7                  80           2 
+    28 Nebraska                      12 5-7                  67           1 
+       North Texas                   12 1-11                 41           1 
+       Notre Dame                    12 10-2                 70           1 
+       La.-Monroe                    13 2-11                 69           1 
+       North Carolina                13 11-2                 63           1 
+       Ole Miss                      12 9-3                  68           1 
+       Kent St.                      12 3-9                  77           1 
+       Iowa                          13 12-1                 73           1 
+       Michigan St.                  13 12-1                 58           1 
+       FIU                           12 5-7                  53           1 
+       Houston                       13 12-1                 80           1 
+       Clemson                       13 13-0                 98           1 
+       Arkansas                      12 7-5                  48           1 
+       Ball St.                      12 3-9                  47           1 
+       Arizona St.                   12 6-6                  79           1 
+       UCF                           12 0-12                 59           1 
+       Boise St.                     12 8-4                  80           1 
+       UCLA                          12 8-4                  68           1 
+       Washington                    12 6-6                  67           1 
+       Virginia Tech                 12 6-6                  69           1 
+       Washington St.                12 8-4                  46           1 
+       Vanderbilt                    12 4-8                  72           1 
+       Utah                          12 9-3                  59           1 
+       UTSA                          12 3-9                  51           1 
+       Army West Point               11 2-9                  49           1 
+       Troy                          12 4-8                  63           1 
+       Southern Miss.                13 9-4                  76           1 
+       Penn St.                      12 7-5                  80           1 
+       Rice                          12 5-7                  55           1 
+       Oklahoma St.                  12 10-2                 69           1 
+       UNLV                          12 3-9                  56           1 
+       Oregon St.                    12 2-10                 45           1 
+       Old Dominion                  12 5-7                  50           1 

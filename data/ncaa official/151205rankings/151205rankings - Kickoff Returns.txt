@@ -1,0 +1,132 @@
+Kickoff Returns
+Through Games 12/05/2015
+  Rank Name                           G W-L              KO Ret  KO Ret Yds     Kick Ret TDs         Avg 
+     1 Tennessee                     12 8-4                  27         902                3       33.41 
+     2 Michigan                      12 9-3                  27         767                1       28.41 
+     3 South Fla.                    12 8-4                  35         988                1       28.23 
+     4 Auburn                        12 6-6                  33         923                0       27.97 
+     5 Marshall                      12 9-3                  28         777                2       27.75 
+     6 Kansas St.                    12 6-6                  42        1154                4       27.48 
+     7 San Diego St.                 13 10-3                 33         888                2       26.91 
+     8 North Carolina St.            12 7-5                  34         906                1       26.65 
+     9 West Virginia                 12 7-5                  32         820                1       25.63 
+    10 Florida St.                   12 10-2                 21         538                0       25.62 
+    11 Duke                          12 7-5                  31         794                3       25.61 
+    12 Northwestern                  12 10-2                 30         765                2       25.50 
+       Ball St.                      12 3-9                  50        1275                1       25.50 
+    14 Utah St.                      12 6-6                  29         739                1       25.48 
+    15 Ga. Southern                  12 8-4                  38         964                0       25.37 
+    16 Oregon                        12 9-3                  53        1336                1       25.21 
+    17 Colorado St.                  12 7-5                  30         756                1       25.20 
+    18 Boston College                12 3-9                  32         806                0       25.19 
+    19 Stanford                      13 11-2                 49        1220                1       24.90 
+    20 Arkansas St.                  12 9-3                  36         887                1       24.64 
+    21 TCU                           12 10-2                 35         857                0       24.49 
+    22 South Ala.                    12 5-7                  40         967                1       24.18 
+    23 Navy                          11 9-2                  28         667                0       23.82 
+    24 Pittsburgh                    12 8-4                  35         826                1       23.60 
+    25 Wyoming                       12 2-10                 33         776                0       23.52 
+    26 South Carolina                12 3-9                  34         796                1       23.41 
+    27 Southern Miss.                13 9-4                  37         865                1       23.38 
+    28 Northern Ill.                 13 8-5                  50        1168                1       23.36 
+    29 Iowa                          13 12-1                 28         653                0       23.32 
+    30 Notre Dame                    12 10-2                 33         765                1       23.18 
+    31 Houston                       13 12-1                 32         740                2       23.13 
+    32 Ohio St.                      12 11-1                 14         322                0       23.00 
+    33 San Jose St.                  12 5-7                  29         666                0       22.97 
+    34 UCF                           12 0-12                 65        1492                0       22.95 
+    35 New Mexico                    12 7-5                  33         755                1       22.88 
+    36 Georgia St.                   12 6-6                  35         796                1       22.74 
+    37 Baylor                        12 9-3                  29         657                0       22.66 
+    38 UCLA                          12 8-4                  43         972                0       22.60 
+    39 Memphis                       12 9-3                  43         962                0       22.37 
+    40 SMU                           12 2-10                 56        1246                1       22.25 
+    41 Nevada                        12 6-6                  26         570                0       21.92 
+    42 Colorado                      13 4-9                  34         745                0       21.91 
+    43 Arizona                       12 6-6                  30         657                0       21.90 
+    44 Utah                          12 9-3                  19         416                1       21.89 
+    45 Western Ky.                   13 11-2                 33         721                1       21.85 
+    46 Penn St.                      12 7-5                  40         873                0       21.83 
+    47 Texas Tech                    12 7-5                  47        1024                2       21.79 
+    48 Clemson                       13 13-0                 35         762                0       21.77 
+    49 Kentucky                      12 5-7                  30         653                0       21.77 
+    50 Arizona St.                   12 6-6                  47        1023                1       21.77 
+    51 Western Mich.                 12 7-5                  46         997                1       21.67 
+    52 Maryland                      12 3-9                  48        1039                1       21.65 
+    53 Toledo                        11 9-2                  38         822                0       21.63 
+    54 Virginia Tech                 12 6-6                  29         626                0       21.59 
+    55 Rutgers                       12 4-8                  51        1093                3       21.43 
+    56 Rice                          12 5-7                  41         876                0       21.37 
+    57 Appalachian St.               12 10-2                 34         726                0       21.35 
+    58 Mississippi St.               12 8-4                  33         704                1       21.33 
+    59 Hawaii                        13 3-10                 53        1130                1       21.32 
+    60 Fla. Atlantic                 12 3-9                  40         851                0       21.28 
+    61 BYU                           12 9-3                  29         616                0       21.24 
+    62 Middle Tenn.                  12 7-5                  42         891                0       21.21 
+    63 Michigan St.                  13 12-1                 22         466                0       21.18 
+    64 Old Dominion                  12 5-7                  45         951                0       21.13 
+    65 UNLV                          12 3-9                  34         717                0       21.09 
+    66 Syracuse                      12 4-8                  39         822                0       21.08 
+    67 Oklahoma                      12 11-1                 29         611                0       21.07 
+    68 Temple                        13 10-3                 35         735                1       21.00 
+    69 North Texas                   12 1-11                 52        1090                0       20.96 
+    70 Oklahoma St.                  12 10-2                 41         857                0       20.90 
+    71 Boise St.                     12 8-4                  28         585                0       20.89 
+    72 Florida                       13 10-3                 26         540                0       20.77 
+    73 UTSA                          12 3-9                  70        1453                0       20.76 
+    74 Washington                    12 6-6                  32         662                0       20.69 
+    75 Oregon St.                    12 2-10                 50        1033                1       20.66 
+    76 Massachusetts                 12 3-9                  58        1196                1       20.62 
+    77 Louisiana Tech                12 8-4                  48         987                0       20.56 
+    78 Washington St.                12 8-4                  38         781                0       20.55 
+    79 Arkansas                      12 7-5                  32         657                0       20.53 
+    80 Louisville                    12 7-5                  28         574                1       20.50 
+    81 FIU                           12 5-7                  49        1003                0       20.47 
+    82 California                    12 7-5                  37         756                0       20.43 
+    83 Ohio                          12 8-4                  32         650                0       20.31 
+    84 Fresno St.                    12 3-9                  50        1015                0       20.30 
+    85 Kansas                        12 0-12                 54        1094                1       20.26 
+    86 Air Force                     13 8-5                  22         444                0       20.18 
+    87 East Carolina                 12 5-7                  38         760                0       20.00 
+    88 Cincinnati                    12 7-5                  46         919                0       19.98 
+    89 North Carolina                13 11-2                 29         579                0       19.97 
+    90 LSU                           11 8-3                  32         637                0       19.91 
+    91 Texas A&M                     12 8-4                  32         635                0       19.84 
+    92 Texas St.                     12 3-9                  42         832                1       19.81 
+    93 Illinois                      12 5-7                  31         614                0       19.81 
+    94 Texas                         12 5-7                  47         929                0       19.77 
+    95 Purdue                        12 2-10                 43         849                0       19.74 
+    96 UTEP                          12 5-7                  41         809                0       19.73 
+    97 Wisconsin                     12 9-3                  24         471                1       19.63 
+    98 Tulsa                         12 6-6                  34         667                0       19.62 
+    99 Vanderbilt                    12 4-8                  40         784                0       19.60 
+   100 Minnesota                     12 5-7                  39         764                0       19.59 
+   101 Eastern Mich.                 12 1-11                 59        1150                0       19.49 
+   102 La.-Monroe                    13 2-11                 45         873                0       19.40 
+   103 Indiana                       12 6-6                  45         868                0       19.29 
+   104 Central Mich.                 12 7-5                  36         689                0       19.14 
+   105 Georgia Tech                  12 3-9                  31         590                0       19.03 
+   106 Southern California           13 8-5                  47         893                0       19.00 
+       La.-Lafayette                 12 4-8                  36         684                1       19.00 
+       UConn                         12 6-6                  29         551                0       19.00 
+   109 Alabama                       13 12-1                 32         607                0       18.97 
+   110 Army West Point               11 2-9                  35         655                0       18.71 
+   111 Iowa St.                      12 3-9                  37         690                0       18.65 
+   112 Kent St.                      12 3-9                  39         727                0       18.64 
+   113 Miami (FL)                    12 8-4                  28         519                1       18.54 
+   114 Nebraska                      12 5-7                  33         609                0       18.45 
+   115 Tulane                        12 3-9                  47         859                0       18.28 
+   116 Wake Forest                   12 3-9                  24         437                0       18.21 
+   117 Georgia                       12 9-3                  31         551                0       17.77 
+   118 Idaho                         12 4-8                  42         746                0       17.76 
+   119 Virginia                      12 4-8                  39         689                0       17.67 
+       Troy                          12 4-8                  30         530                0       17.67 
+   121 Miami (OH)                    12 3-9                  49         852                0       17.39 
+   122 Bowling Green                 13 10-3                 43         738                0       17.16 
+   123 Ole Miss                      12 9-3                  29         489                0       16.86 
+   124 New Mexico St.                12 3-9                  33         553                0       16.76 
+   125 Buffalo                       12 5-7                  35         581                0       16.60 
+   126 Akron                         12 7-5                  32         530                0       16.56 
+   127 Missouri                      12 5-7                  38         573                0       15.08 
+Reclassifying
+    NR Charlotte                     12 2-10                 53        1037                1       19.57 

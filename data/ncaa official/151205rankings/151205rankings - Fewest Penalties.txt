@@ -1,0 +1,132 @@
+Fewest Penalties
+Through Games 12/05/2015
+  Rank Name                           G W-L           Penalties      PYards 
+     1 Navy                          11 9-2                  35         299 
+     2 Georgia Tech                  12 3-9                  38         329 
+     3 Ball St.                      12 3-9                  44         425 
+     4 Army West Point               11 2-9                  46         446 
+     5 Mississippi St.               12 8-4                  48         451 
+     6 Old Dominion                  12 5-7                  49         437 
+       Air Force                     13 8-5                  49         485 
+     8 San Jose St.                  12 5-7                  52         416 
+     9 Arkansas                      12 7-5                  53         457 
+    10 Arizona St.                   12 6-6                  54         473 
+       Idaho                         12 4-8                  54         512 
+    12 Northwestern                  12 10-2                 55         481 
+    13 UNLV                          12 3-9                  57         538 
+       Middle Tenn.                  12 7-5                  57         510 
+       UTEP                          12 5-7                  57         503 
+    16 Tennessee                     12 8-4                  58         440 
+    17 Iowa St.                      12 3-9                  59         489 
+       Louisiana Tech                12 8-4                  59         500 
+       Fresno St.                    12 3-9                  59         471 
+       Auburn                        12 6-6                  59         558 
+    21 South Carolina                12 3-9                  60         468 
+    22 Wake Forest                   12 3-9                  61         557 
+       Penn St.                      12 7-5                  61         490 
+    24 California                    12 7-5                  62         539 
+       Georgia                       12 9-3                  62         547 
+       Ga. Southern                  12 8-4                  62         584 
+       Kansas St.                    12 6-6                  62         480 
+    28 Missouri                      12 5-7                  63         517 
+    29 Notre Dame                    12 10-2                 64         566 
+       UCF                           12 0-12                 64         541 
+       Syracuse                      12 4-8                  64         577 
+       Pittsburgh                    12 8-4                  64         525 
+    33 Nevada                        12 6-6                  65         588 
+       Washington St.                12 8-4                  65         462 
+       SMU                           12 2-10                 65         604 
+       Utah                          12 9-3                  65         617 
+       Purdue                        12 2-10                 65         647 
+    38 Iowa                          13 12-1                 66         633 
+       Illinois                      12 5-7                  66         589 
+       Duke                          12 7-5                  66         554 
+       Washington                    12 6-6                  66         601 
+    42 Stanford                      13 11-2                 68         578 
+       Oklahoma St.                  12 10-2                 68         580 
+       North Carolina St.            12 7-5                  68         637 
+    45 Kentucky                      12 5-7                  69         676 
+       Michigan St.                  13 12-1                 69         567 
+       FIU                           12 5-7                  69         594 
+    48 Arizona                       12 6-6                  70         603 
+       South Fla.                    12 8-4                  70         647 
+       Kansas                        12 0-12                 70         674 
+       Tulane                        12 3-9                  70         641 
+       Wisconsin                     12 9-3                  70         653 
+    53 UConn                         12 6-6                  71         570 
+    54 Western Mich.                 12 7-5                  72         666 
+       Minnesota                     12 5-7                  72         586 
+       Ohio St.                      12 11-1                 72         611 
+    57 Texas St.                     12 3-9                  73         671 
+       Vanderbilt                    12 4-8                  73         566 
+    59 Texas A&M                     12 8-4                  74         628 
+       Boise St.                     12 8-4                  74         626 
+       North Texas                   12 1-11                 74         681 
+       Ole Miss                      12 9-3                  74         627 
+       Western Ky.                   13 11-2                 74         744 
+    64 Oklahoma                      12 11-1                 75         735 
+       Appalachian St.               12 10-2                 75         659 
+       Wyoming                       12 2-10                 75         681 
+       Northern Ill.                 13 8-5                  75         665 
+       North Carolina                13 11-2                 75         616 
+       Fla. Atlantic                 12 3-9                  75         687 
+       Clemson                       13 13-0                 75         627 
+       Utah St.                      12 6-6                  75         706 
+    72 Oregon St.                    12 2-10                 76         704 
+    73 Temple                        13 10-3                 77         743 
+       New Mexico St.                12 3-9                  77         699 
+       Texas                         12 5-7                  77         709 
+    76 Central Mich.                 12 7-5                  78         678 
+       Boston College                12 3-9                  78         689 
+    78 Rutgers                       12 4-8                  79         624 
+       BYU                           12 9-3                  79         696 
+    80 Troy                          12 4-8                  80         691 
+       Colorado                      13 4-9                  80         724 
+    82 Alabama                       13 12-1                 81         745 
+       Houston                       13 12-1                 81         753 
+       New Mexico                    12 7-5                  81         737 
+       Eastern Mich.                 12 1-11                 81         701 
+       South Ala.                    12 5-7                  81         693 
+    87 West Virginia                 12 7-5                  82         856 
+    88 Michigan                      12 9-3                  83         748 
+       Florida St.                   12 10-2                 83         636 
+    90 Rice                          12 5-7                  84         752 
+       UTSA                          12 3-9                  84         788 
+       Ohio                          12 8-4                  84         846 
+       Indiana                       12 6-6                  84         724 
+       Buffalo                       12 5-7                  84         768 
+       Florida                       13 10-3                 84         671 
+    96 La.-Lafayette                 12 4-8                  85         853 
+       San Diego St.                 13 10-3                 85         782 
+       Tulsa                         12 6-6                  85         686 
+       Maryland                      12 3-9                  85         746 
+       Oregon                        12 9-3                  85         769 
+   101 Texas Tech                    12 7-5                  86         773 
+       TCU                           12 10-2                 86         839 
+       Georgia St.                   12 6-6                  86         779 
+   104 Louisville                    12 7-5                  87         724 
+       Toledo                        11 9-2                  87         755 
+       LSU                           11 8-3                  87         698 
+       Marshall                      12 9-3                  87         815 
+   108 Nebraska                      12 5-7                  88         791 
+   109 Massachusetts                 12 3-9                  89         767 
+       East Carolina                 12 5-7                  89         825 
+       Miami (OH)                    12 3-9                  89         736 
+   112 Colorado St.                  12 7-5                  90         833 
+   113 Virginia                      12 4-8                  91         766 
+       Virginia Tech                 12 6-6                  91         776 
+   115 Kent St.                      12 3-9                  93         872 
+       Memphis                       12 9-3                  93         936 
+   117 Cincinnati                    12 7-5                  94         838 
+       Southern Miss.                13 9-4                  94         891 
+       Akron                         12 7-5                  94         811 
+   120 La.-Monroe                    13 2-11                 95         754 
+   121 Southern California           13 8-5                  97         903 
+   122 Arkansas St.                  12 9-3                  98         923 
+   123 UCLA                          12 8-4                 101         860 
+   124 Hawaii                        13 3-10                107         897 
+       Baylor                        12 9-3                 107         926 
+   126 Miami (FL)                    12 8-4                 112         989 
+   127 Bowling Green                 13 10-3                116        1064 
+Reclassifying
+    NR Charlotte                     12 2-10                 64         652 

@@ -1,0 +1,132 @@
+Turnovers Gained
+Through Games 12/05/2015
+  Rank Name                           G W-L             Fum Rec     Opp Int   Turn Gain 
+     1 Arkansas St.                  12 9-3                   8          26          34 
+     2 San Diego St.                 13 10-3                 11          20          31 
+       Western Ky.                   13 11-2                 14          17          31 
+       West Virginia                 12 7-5                   8          23          31 
+     5 Houston                       13 12-1                 13          17          30 
+     6 Utah                          12 9-3                  10          19          29 
+     7 Michigan St.                  13 12-1                 13          15          28 
+       Boise St.                     12 8-4                   6          22          28 
+     9 Marshall                      12 9-3                  13          14          27 
+       Northern Ill.                 13 8-5                   6          21          27 
+       Oklahoma St.                  12 10-2                 11          16          27 
+       Bowling Green                 13 10-3                  7          20          27 
+       Washington                    12 6-6                  12          15          27 
+    14 Oklahoma                      12 11-1                  7          19          26 
+       Iowa                          13 12-1                  8          18          26 
+    16 North Carolina                13 11-2                  9          16          25 
+       Akron                         12 7-5                  12          13          25 
+       Ga. Southern                  12 8-4                   8          17          25 
+       Florida                       13 10-3                 11          14          25 
+       Texas                         12 5-7                  12          13          25 
+       Virginia Tech                 12 6-6                  15          10          25 
+    22 Middle Tenn.                  12 7-5                   8          16          24 
+       Baylor                        12 9-3                  11          13          24 
+       Texas Tech                    12 7-5                  10          14          24 
+       Miami (FL)                    12 8-4                   9          15          24 
+       Alabama                       13 12-1                  8          16          24 
+       California                    12 7-5                  10          14          24 
+       Louisville                    12 7-5                   8          16          24 
+       UConn                         12 6-6                   7          17          24 
+    30 Southern California           13 8-5                   9          14          23 
+       Fla. Atlantic                 12 3-9                   9          14          23 
+       Clemson                       13 13-0                  9          14          23 
+       Boston College                12 3-9                  10          13          23 
+       New Mexico                    12 7-5                  10          13          23 
+       South Fla.                    12 8-4                   8          15          23 
+       Syracuse                      12 4-8                  12          11          23 
+       Southern Miss.                13 9-4                  10          13          23 
+    38 Colorado                      13 4-9                   8          14          22 
+       UTSA                          12 3-9                   8          14          22 
+       Temple                        13 10-3                  6          16          22 
+       Tulsa                         12 6-6                  13           9          22 
+       Penn St.                      12 7-5                  12          10          22 
+       BYU                           12 9-3                   7          15          22 
+       New Mexico St.                12 3-9                  10          12          22 
+       Ole Miss                      12 9-3                   7          15          22 
+    46 Washington St.                12 8-4                  10          11          21 
+       Utah St.                      12 6-6                  12           9          21 
+       UNLV                          12 3-9                   8          13          21 
+       Navy                          11 9-2                  14           7          21 
+       North Carolina St.            12 7-5                   9          12          21 
+       Oregon                        12 9-3                   9          12          21 
+       Georgia St.                   12 6-6                   7          14          21 
+       Toledo                        11 9-2                  10          11          21 
+       Purdue                        12 2-10                  9          12          21 
+       Appalachian St.               12 10-2                  5          16          21 
+       Georgia                       12 9-3                  10          11          21 
+       Illinois                      12 5-7                   8          13          21 
+       Northwestern                  12 10-2                  9          12          21 
+    59 South Ala.                    12 5-7                  10          10          20 
+       South Carolina                12 3-9                   8          12          20 
+       Buffalo                       12 5-7                   7          13          20 
+       Fresno St.                    12 3-9                  11           9          20 
+       Kentucky                      12 5-7                   9          11          20 
+       Nevada                        12 6-6                   7          13          20 
+       Wisconsin                     12 9-3                   9          11          20 
+    66 Louisiana Tech                12 8-4                   8          11          19 
+       Ohio                          12 8-4                   8          11          19 
+       Troy                          12 4-8                  13           6          19 
+       Memphis                       12 9-3                  10           9          19 
+       Indiana                       12 6-6                  10           9          19 
+       Arizona St.                   12 6-6                   6          13          19 
+       Ohio St.                      12 11-1                  8          11          19 
+    73 TCU                           12 10-2                 11           7          18 
+       Maryland                      12 3-9                   9           9          18 
+       Kansas                        12 0-12                  9           9          18 
+       Massachusetts                 12 3-9                   5          13          18 
+       Old Dominion                  12 5-7                  10           8          18 
+       North Texas                   12 1-11                 14           4          18 
+       Auburn                        12 6-6                   5          13          18 
+       FIU                           12 5-7                   9           9          18 
+       UCLA                          12 8-4                   6          12          18 
+       Texas A&M                     12 8-4                   7          11          18 
+       Kent St.                      12 3-9                   6          12          18 
+    84 Arkansas                      12 7-5                   7          10          17 
+       Vanderbilt                    12 4-8                  11           6          17 
+       Miami (OH)                    12 3-9                   7          10          17 
+       Duke                          12 7-5                   8           9          17 
+       Idaho                         12 4-8                  11           6          17 
+       Minnesota                     12 5-7                   8           9          17 
+       Air Force                     13 8-5                   6          11          17 
+       Central Mich.                 12 7-5                  11           6          17 
+       Georgia Tech                  12 3-9                   8           9          17 
+    93 Ball St.                      12 3-9                   9           7          16 
+       Tulane                        12 3-9                   8           8          16 
+       Rutgers                       12 4-8                   3          13          16 
+       Western Mich.                 12 7-5                   7           9          16 
+       Missouri                      12 5-7                   7           9          16 
+       LSU                           11 8-3                   7           9          16 
+       East Carolina                 12 5-7                   8           8          16 
+   100 Kansas St.                    12 6-6                  11           4          15 
+       Virginia                      12 4-8                  11           4          15 
+       Pittsburgh                    12 8-4                   5          10          15 
+       Colorado St.                  12 7-5                   7           8          15 
+       SMU                           12 2-10                  5          10          15 
+       Tennessee                     12 8-4                   7           8          15 
+   106 Florida St.                   12 10-2                  7           7          14 
+       Texas St.                     12 3-9                  11           3          14 
+       Cincinnati                    12 7-5                   5           9          14 
+       La.-Monroe                    13 2-11                  9           5          14 
+   110 Iowa St.                      12 3-9                   8           5          13 
+       Arizona                       12 6-6                   5           8          13 
+       Notre Dame                    12 10-2                  5           8          13 
+       UCF                           12 0-12                  9           4          13 
+       Nebraska                      12 5-7                   5           8          13 
+   115 Oregon St.                    12 2-10                  4           8          12 
+       Stanford                      13 11-2                  5           7          12 
+       Mississippi St.               12 8-4                   1          11          12 
+       Eastern Mich.                 12 1-11                  8           4          12 
+       UTEP                          12 5-7                   7           5          12 
+   120 San Jose St.                  12 5-7                   3           8          11 
+       Hawaii                        13 3-10                  8           3          11 
+       Wake Forest                   12 3-9                   5           6          11 
+       La.-Lafayette                 12 4-8                   6           5          11 
+       Army West Point               11 2-9                   5           6          11 
+   125 Michigan                      12 9-3                   2           8          10 
+       Wyoming                       12 2-10                  5           5          10 
+       Rice                          12 5-7                   8           2          10 
+Reclassifying
+    NR Charlotte                     12 2-10                 12          10          22 

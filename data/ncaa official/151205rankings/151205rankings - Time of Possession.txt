@@ -1,0 +1,132 @@
+Time of Possession
+Through Games 12/05/2015
+  Rank Name                           G W-L                 TOP      AvgTOP 
+     1 Stanford                      13 11-2             460:03       35:23 
+     2 Western Mich.                 12 7-5              414:25       34:32 
+     3 Arkansas                      12 7-5              409:34       34:07 
+     4 Alabama                       13 12-1             440:24       33:52 
+     5 Central Mich.                 12 7-5              403:48       33:39 
+     6 UTEP                          12 5-7              403:45       33:38 
+     7 Rice                          12 5-7              403:42       33:38 
+     8 Wisconsin                     12 9-3              402:52       33:34 
+     9 Ga. Southern                  12 8-4              401:16       33:26 
+    10 Michigan St.                  13 12-1             432:59       33:18 
+    11 North Carolina St.            12 7-5              397:37       33:08 
+    12 Michigan                      12 9-3              396:23       33:01 
+    13 Temple                        13 10-3             429:10       33:00 
+    14 Kansas St.                    12 6-6              395:18       32:56 
+    15 Pittsburgh                    12 8-4              394:19       32:51 
+    16 Akron                         12 7-5              392:33       32:42 
+    17 San Jose St.                  12 5-7              392:18       32:41 
+       Virginia                      12 4-8              392:18       32:41 
+    19 Utah                          12 9-3              392:15       32:41 
+    20 Navy                          11 9-2              359:00       32:38 
+    21 San Diego St.                 13 10-3             422:35       32:30 
+    22 Ohio                          12 8-4              389:28       32:27 
+    23 Air Force                     13 8-5              421:42       32:26 
+    24 Army West Point               11 2-9              354:21       32:12 
+    25 Vanderbilt                    12 4-8              385:28       32:07 
+    26 Nebraska                      12 5-7              382:51       31:54 
+    27 Clemson                       13 13-0             414:19       31:52 
+    28 Idaho                         12 4-8              380:38       31:43 
+    29 Florida                       13 10-3             412:15       31:42 
+    30 Arizona St.                   12 6-6              378:28       31:32 
+    31 Iowa                          13 12-1             410:00       31:32 
+    32 Iowa St.                      12 3-9              378:24       31:32 
+    33 Appalachian St.               12 10-2             378:11       31:30 
+    34 LSU                           11 8-3              345:47       31:26 
+    35 Cincinnati                    12 7-5              376:58       31:24 
+    36 SMU                           12 2-10             376:50       31:24 
+    37 UConn                         12 6-6              375:26       31:17 
+    38 Rutgers                       12 4-8              375:16       31:16 
+    39 Virginia Tech                 12 6-6              375:10       31:15 
+    40 Oklahoma                      12 11-1             374:16       31:11 
+    41 Wake Forest                   12 3-9              373:47       31:08 
+    42 Georgia Tech                  12 3-9              373:37       31:08 
+    43 UNLV                          12 3-9              373:03       31:05 
+    44 Houston                       13 12-1             404:07       31:05 
+    45 Buffalo                       12 5-7              372:55       31:04 
+    46 Colorado                      13 4-9              403:37       31:02 
+    47 TCU                           12 10-2             372:02       31:00 
+    48 Arkansas St.                  12 9-3              370:35       30:52 
+    49 Boise St.                     12 8-4              370:30       30:52 
+    50 Memphis                       12 9-3              368:50       30:44 
+    51 Southern Miss.                13 9-4              399:04       30:41 
+    52 New Mexico                    12 7-5              363:50       30:19 
+    53 Middle Tenn.                  12 7-5              363:32       30:17 
+    54 Louisiana Tech                12 8-4              363:04       30:15 
+    55 Tennessee                     12 8-4              362:51       30:14 
+    56 Wyoming                       12 2-10             362:45       30:13 
+    57 Nevada                        12 6-6              362:37       30:13 
+    58 FIU                           12 5-7              362:31       30:12 
+    59 Washington St.                12 8-4              361:53       30:09 
+    60 Northwestern                  12 10-2             361:34       30:07 
+    61 La.-Lafayette                 12 4-8              361:27       30:07 
+    62 Colorado St.                  12 7-5              361:10       30:05 
+    63 Western Ky.                   13 11-2             391:11       30:05 
+    64 Miami (FL)                    12 8-4              360:02       30:00 
+    65 Boston College                12 3-9              359:03       29:55 
+    66 Notre Dame                    12 10-2             358:08       29:50 
+    67 Florida St.                   12 10-2             356:51       29:44 
+    68 Southern California           13 8-5              386:32       29:44 
+    69 Marshall                      12 9-3              356:31       29:42 
+    70 Illinois                      12 5-7              356:21       29:41 
+    71 Toledo                        11 9-2              326:21       29:40 
+    72 Georgia St.                   12 6-6              355:44       29:38 
+    73 Washington                    12 6-6              355:31       29:37 
+    74 Louisville                    12 7-5              354:07       29:30 
+    75 West Virginia                 12 7-5              352:56       29:24 
+    76 Penn St.                      12 7-5              352:07       29:20 
+    77 Syracuse                      12 4-8              351:34       29:17 
+    78 Kentucky                      12 5-7              351:21       29:16 
+    79 Oklahoma St.                  12 10-2             351:19       29:16 
+    80 Georgia                       12 9-3              350:12       29:11 
+    81 California                    12 7-5              349:01       29:05 
+    82 Utah St.                      12 6-6              348:38       29:03 
+    83 Ohio St.                      12 11-1             347:42       28:58 
+    84 Indiana                       12 6-6              347:36       28:58 
+    85 Texas St.                     12 3-9              347:25       28:57 
+    86 BYU                           12 9-3              347:24       28:57 
+    87 Fla. Atlantic                 12 3-9              347:08       28:55 
+    88 Miami (OH)                    12 3-9              344:35       28:42 
+    89 Duke                          12 7-5              344:14       28:41 
+    90 Ball St.                      12 3-9              343:22       28:36 
+    91 Bowling Green                 13 10-3             371:35       28:35 
+    92 UTSA                          12 3-9              342:37       28:33 
+    93 South Carolina                12 3-9              341:52       28:29 
+    94 Minnesota                     12 5-7              341:31       28:27 
+    95 South Ala.                    12 5-7              340:36       28:23 
+    96 Kansas                        12 0-12             340:09       28:20 
+    97 Tulane                        12 3-9              339:56       28:19 
+    98 South Fla.                    12 8-4              338:26       28:12 
+    99 East Carolina                 12 5-7              337:20       28:06 
+   100 Kent St.                      12 3-9              337:16       28:06 
+   101 New Mexico St.                12 3-9              336:48       28:04 
+   102 Texas A&M                     12 8-4              335:50       27:59 
+   103 La.-Monroe                    13 2-11             362:50       27:54 
+   104 Purdue                        12 2-10             334:28       27:52 
+   105 Auburn                        12 6-6              334:26       27:52 
+   106 Tulsa                         12 6-6              334:12       27:51 
+   107 Old Dominion                  12 5-7              333:54       27:49 
+   108 Texas Tech                    12 7-5              332:55       27:44 
+   109 Maryland                      12 3-9              331:16       27:36 
+   110 UCF                           12 0-12             331:09       27:35 
+   111 Oregon                        12 9-3              330:09       27:30 
+   112 Fresno St.                    12 3-9              326:28       27:12 
+   113 Northern Ill.                 13 8-5              353:01       27:09 
+   114 Texas                         12 5-7              325:26       27:07 
+   115 Baylor                        12 9-3              325:07       27:05 
+   116 Eastern Mich.                 12 1-11             324:49       27:04 
+   117 Missouri                      12 5-7              324:24       27:02 
+   118 Massachusetts                 12 3-9              323:49       26:59 
+   119 Arizona                       12 6-6              322:53       26:54 
+   120 North Texas                   12 1-11             319:15       26:36 
+   121 Ole Miss                      12 9-3              316:44       26:23 
+   122 UCLA                          12 8-4              315:18       26:16 
+   123 Oregon St.                    12 2-10             314:29       26:12 
+   124 Troy                          12 4-8              314:28       26:12 
+   125 Mississippi St.               12 8-4              313:45       26:08 
+   126 North Carolina                13 11-2             330:55       25:27 
+   127 Hawaii                        13 3-10             305:33       23:30 
+Reclassifying
+    NR Charlotte                     12 2-10             340:11       28:20 
