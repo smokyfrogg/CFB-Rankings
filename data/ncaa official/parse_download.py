@@ -18,3 +18,13 @@ import sys
 #close out input
 
 #success/fail notice
+
+def check_args():
+	return
+
+def check_format():
+	return
+def write_chunk():
+	return
+def cleanup():
+	return
