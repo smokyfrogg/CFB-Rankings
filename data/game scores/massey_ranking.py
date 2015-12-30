@@ -8,7 +8,7 @@
 #		http://www.masseyratings.com/theory/massey97.pdf
 # 		txt file has same directory/filename as the input, with '_ranked' added to end
 
-import sys
+import sys, string, os
 
 def main():
 	#check for args
@@ -16,12 +16,17 @@ def main():
 	if (not check_args()):
 		return
 	infilename = sys.argv[1]
-	outfilename = os.path.splitext(filename)[0] + '_ranked.txt'
+	outfilename = os.path.splitext(infilename)[0] + '_ranked.txt'
 	#open file
 	filein = open(infilename, 'r')
 	#create dict of team name -> data scruct (PK, list of opponent PK's, total point differential)
+	teamToData = {}
 	#create PK -> team name dict (for retreving team names for output)
+	pkToTeams = {}
 	#iterate over games, update dictionary if team not seen, add opponents to list, increment/decrement point differential
+	for line in filein:
+		#TODO: fucking make it do the team names right
+		print string.split(line)
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
