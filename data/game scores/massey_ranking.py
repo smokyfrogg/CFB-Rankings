@@ -18,6 +18,7 @@ def main():
 	infilename = sys.argv[1]
 	outfilename = os.path.splitext(filename)[0] + '_ranked.txt'
 	#open file
+	filein = open(infilename, 'r')
 	#create dict of team name -> data scruct (PK, list of opponent PK's, total point differential)
 	#create PK -> team name dict (for retreving team names for output)
 	#iterate over games, update dictionary if team not seen, add opponents to list, increment/decrement point differential
@@ -27,6 +28,8 @@ def main():
 	#sort LSR results
 	#create output text
 	#cleanup, exit
+	filein.close()
+	return
 def check_args(): 	#Checks the command line arguments, returns True if valid, False otherwise
 					#Prints reason for failure if False
 	if (len(sys.argv) != 2):
@@ -37,3 +40,6 @@ def check_args(): 	#Checks the command line arguments, returns True if valid, Fa
 		return True
 	print 'File:', '\'' + sys.argv[1] + '\'', 'not found! Exiting program.'
 	return False
+
+if __name__ == "__main__":
+	main()
