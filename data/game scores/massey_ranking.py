@@ -41,5 +41,23 @@ def check_args(): 	#Checks the command line arguments, returns True if valid, Fa
 	print 'File:', '\'' + sys.argv[1] + '\'', 'not found! Exiting program.'
 	return False
 
+class TeamData():	#Structure to keep track of a team's data
+					#Fields:
+					#pk: integer, primary key for a team. Used for keeping constant indexes in matrix algebra
+					#opponents: list of integers, each with PK of teams played against
+					#differential: total point differential
+					#gamesplayed: number of games played by this team
+	def __init__(self, teamPK): #initializes team's data. Each team should have a unique PK
+		self.pk = teamPK
+		self.opponents = []
+		self.differential = 0
+		self.gamesplayed = 0
+	def add_game(self, opponentPK, result):	#opponentPK: integer, PK of team played against
+											#result: integer, point differential of game; positive for a win,
+											#		negative for a loss
+		self.gamesplayed = self.gamesplayed + 1
+		self.opponents.append(opponentPK)
+		self.differential = self.differential + result
+
 if __name__ == "__main__":
 	main()
