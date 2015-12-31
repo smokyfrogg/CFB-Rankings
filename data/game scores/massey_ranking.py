@@ -15,26 +15,64 @@ def main():
 	print 'Checking arguments...'
 	if (not check_args()):
 		return
-	infilename = sys.argv[1]
-	outfilename = os.path.splitext(infilename)[0] + '_ranked.txt'
+	in_filename = sys.argv[1]
+	out_filename = os.path.splitext(in_filename)[0] + '_ranked.txt'
 	#open file
-	filein = open(infilename, 'r')
+	file_in = open(in_filename, 'r')
 	#create dict of team name -> data scruct (PK, list of opponent PK's, total point differential)
-	teamToData = {}
+	team_to_data = {}
 	#create PK -> team name dict (for retreving team names for output)
-	pkToTeams = {}
+	pk_to_teams = {}
 	#iterate over games, update dictionary if team not seen, add opponents to list, increment/decrement point differential
-	for line in filein:
-		#TODO: fucking make it do the team names right
-		print string.split(line)
+	for line in file_in:
+		print line
+		game_summary = ncaa_game_convert(line)
+		print game_summary
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
 	#sort LSR results
 	#create output text
 	#cleanup, exit
-	filein.close()
+	file_in.close()
 	return
+
+def ncaa_game_convert(line_in):	#input: raw data from a line of Massey's NCAA game results
+								#output: Game_Summary data structure
+	raw = string.split(line_in)[1:] #splits raw string into individual parts, first part is date and unnecessary
+	state = 0 	#tracks how far in data we've seen; 0 is still on team1, 1 is team2
+	team1 = ''
+	team2 = ''
+	score1 = 0
+	score2 = 0
+	for item in raw: #compensating for the dickass decision to deliniate with spaces instead of tabs, when team names have spaces
+		if state == 0:
+			try:
+				score1 = int(item)
+				state = 1
+			except ValueError:
+				if team1 == '':
+					if item[0] == '@':
+						item = item[1:]
+					team1 = item
+				else:
+					team1 = team1 + ' ' + item
+		else:
+			try:
+				score2 = int(item)
+				break
+			except ValueError:
+				if team2 == '':
+					if item[0] == '@':
+						item = item[1:]
+					team2 = item
+				else:
+					team2 = team2 + ' ' + item
+	game = Game_Summary(team1, team2, score1-score2)
+	print team1, team2, score1-score2
+	return game
+
+
 def check_args(): 	#Checks the command line arguments, returns True if valid, False otherwise
 					#Prints reason for failure if False
 	if (len(sys.argv) != 2):
@@ -46,7 +84,18 @@ def check_args(): 	#Checks the command line arguments, returns True if valid, Fa
 	print 'File:', '\'' + sys.argv[1] + '\'', 'not found! Exiting program.'
 	return False
 
-class TeamData():	#Structure to keep track of a team's data
+class Game_Summary():	#Structure for holding the results of a game
+						#Fields:
+						#team1: string, name of the home team
+						#team2: string, name of away team
+						#result: point differential result, positive if team1 won, negative if team2 won
+	def __init__(self, team1, team2, point_differential):
+		self.team1 = team1
+		self.team2 = team2
+		self.result = point_differential
+	#TODO: __str__
+
+class Team_Data():	#Structure to keep track of a team's data
 					#Fields:
 					#pk: integer, primary key for a team. Used for keeping constant indexes in matrix algebra
 					#opponents: list of integers, each with PK of teams played against
@@ -57,6 +106,9 @@ class TeamData():	#Structure to keep track of a team's data
 		self.opponents = []
 		self.differential = 0
 		self.gamesplayed = 0
+
+	#TODO: __STR__
+
 	def add_game(self, opponentPK, result):	#opponentPK: integer, PK of team played against
 											#result: integer, point differential of game; positive for a win,
 											#		negative for a loss
