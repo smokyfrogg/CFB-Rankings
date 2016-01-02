@@ -25,16 +25,40 @@ def main():
 	pk_to_teams = {}
 	#iterate over games, update dictionary if team not seen, add opponents to list, increment/decrement point differential
 	for line in file_in:
-		print line
 		game_summary = ncaa_game_convert(line)
-		print game_summary
+		team1 = game_summary.team1
+		team2 = game_summary.team2
+		result = game_summary.result
+		if team1 not in team_to_data:
+			team_pk = len(pk_to_teams)
+			team = Team_Data(team_pk)
+			pk_to_teams[team_pk] = team1
+			team_to_data[team1] = team
+		if team2 not in team_to_data:
+			team_pk = len(pk_to_teams)
+			team = Team_Data(team_pk)
+			pk_to_teams[team_pk] = team2
+			team_to_data[team2] = team
+		team1_data = team_to_data[team1]
+		team2_data = team_to_data[team2]
+		team1_data.opponents.append(team2_data.pk)
+		team2_data.opponents.append(team1_data.pk)
+		team1_data.gamesplayed = team1_data.gamesplayed + 1
+		team2_data.gamesplayed = team2_data.gamesplayed + 1
+		if result > 0:	#team1 victory, decrement from team2's results
+			team1_data.differential = team1_data.differential + result
+			team2_data.differential = team2_data.differential - result
+		else:	#team2 victory
+			team1_data.differential = team1_data.differential - result
+			team2_data.differential = team2_data.differential + result
+	file_in.close()
+	print pk_to_teams
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
 	#sort LSR results
 	#create output text
 	#cleanup, exit
-	file_in.close()
 	return
 
 def ncaa_game_convert(line_in):	#input: raw data from a line of Massey's NCAA game results
@@ -69,7 +93,6 @@ def ncaa_game_convert(line_in):	#input: raw data from a line of Massey's NCAA ga
 				else:
 					team2 = team2 + ' ' + item
 	game = Game_Summary(team1, team2, score1-score2)
-	print team1, team2, score1-score2
 	return game
 
 
