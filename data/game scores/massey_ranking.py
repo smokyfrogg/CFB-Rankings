@@ -52,7 +52,6 @@ def main():
 			team1_data.differential = team1_data.differential - result
 			team2_data.differential = team2_data.differential + result
 	file_in.close()
-	print pk_to_teams
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
