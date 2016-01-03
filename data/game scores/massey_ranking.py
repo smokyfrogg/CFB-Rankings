@@ -9,6 +9,8 @@
 # 		txt file has same directory/filename as the input, with '_ranked' added to end
 
 import sys, string, os
+from scipy import linalg
+from numpy import array, empty
 
 def main():
 	#check for args
@@ -53,6 +55,8 @@ def main():
 			team2_data.differential = team2_data.differential + result
 	file_in.close()
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
+	main_array = empty([len(pk_to_teams), len(pk_to_teams)])
+	print main_array
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
 	#sort LSR results
