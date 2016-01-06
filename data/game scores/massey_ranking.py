@@ -10,7 +10,7 @@
 
 import sys, string, os
 from scipy import linalg
-from numpy import array, empty
+from numpy import array, empty, dot
 
 def main():
 	#check for args
@@ -65,11 +65,18 @@ def main():
 		score_diff_vector[n][0] = current_data.differential
 		for team_pk in current_games:
 			main_array[n][team_pk] = main_array[n][team_pk] - 1
-	print main_array
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
+	main_inv = linalg.inv(main_array)
+	solution = dot(main_inv, score_diff_vector)
 	#make list of (LSR solution, Team PK) tuples
+	solution_list = []
+	for n in range(0, solution.shape[0]):
+		solution_list.append((solution[n][0], n))
 	#sort LSR results
+	solution_list.sort()
 	#create output text
+	for n in range(0, 100):
+		print str(n+1) + '\t' + pk_to_teams[n] + '\t' + str(solution_list[n][0]) + '\n'
 	#cleanup, exit
 	return
 
