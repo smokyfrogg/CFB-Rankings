@@ -56,6 +56,15 @@ def main():
 	file_in.close()
 	#iterate over name -> data dict, make game matrix in accordance with Massey, point differential vector
 	main_array = empty([len(pk_to_teams), len(pk_to_teams)])
+	score_diff_vector = empty([main_array.shape[0], 1])
+	for n in range(0, main_array.shape[0]):
+		current_team = pk_to_teams[n]
+		current_data = team_to_data[current_team]
+		current_games = current_data.opponents
+		main_array[n][n] = current_data.gamesplayed
+		score_diff_vector[n][0] = current_data.differential
+		for team_pk in current_games:
+			main_array[n][team_pk] = main_array[n][team_pk] - 1
 	print main_array
 	#solve LSR equation (invert game matrix, A-1*SD = rankings)
 	#make list of (LSR solution, Team PK) tuples
